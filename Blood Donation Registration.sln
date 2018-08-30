@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blood Donation Registration(Open Source)", "Blood Donation Registration\Blood Donation Registration(Open Source).csproj", "{FD97472F-813A-4B5E-8789-57496E60BA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD97472F-813A-4B5E-8789-57496E60BA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD97472F-813A-4B5E-8789-57496E60BA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD97472F-813A-4B5E-8789-57496E60BA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD97472F-813A-4B5E-8789-57496E60BA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
